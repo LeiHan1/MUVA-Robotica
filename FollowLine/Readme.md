@@ -38,7 +38,7 @@ By adjusting the parameters of controllers PD and velocity, our car can run fast
 Here is the lap by calculating the new center of reference (00m43s of simulation time)
 [![Watch the video](https://github.com/LeiHan1/MUVA-Robotica/blob/master/FollowLine/img/cover.PNG)](https://www.youtube.com/watch?v=_Bwfmptw_8Q)
 
-This first lap is executed with a higher velocity than the first lap (v=10).
+This lap is executed with a higher velocity than the first lap (v=10).
 
 
 Week 24/02/20 - 01/03/20
