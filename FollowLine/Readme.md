@@ -41,5 +41,10 @@ Here is the lap by calculating the new center of reference (00m43s of simulation
 This lap is executed with a higher velocity than the first lap (v=10).
 
 
-Week 24/02/20 - 01/03/20
+Recent updates
 ------------------
+In the last version, we have implemented new functions for the followLine: Car states 
+The car could be racing on a Straight line, Curve line or None of these.
+We add a counter for the Straight line and None state:
+ - When the times of Straight line > 3, increase the speed of the car, or if the previous state was Curve line or None, switch to Straight line
+ - When the times of None > 3, the car can turn to left or right to search the red line, and it will switch side for every 3 times
