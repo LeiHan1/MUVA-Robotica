@@ -32,3 +32,15 @@ But, in this case our epiline is just the parallel line iterpolation from left i
 Triangulate point 3d
 ------------------
 Once we obtain the matching point, we can use the function 'TriangulatePoints()' to retrieve the 3D coordinate of a pair of matching points.
+
+Result
+------------------
+![Result1](https://github.com/LeiHan1/MUVA-Robotica/blob/master/3D/imgs/Captura%20de%20pantalla%201.png)
+
+![Result1](https://github.com/LeiHan1/MUVA-Robotica/blob/master/3D/imgs/Captura%20de%20pantalla%202.png)
+
+![Result1](https://github.com/LeiHan1/MUVA-Robotica/blob/master/3D/imgs/Captura%20de%20pantalla%203.png)
+
+![Result1](https://github.com/LeiHan1/MUVA-Robotica/blob/master/3D/imgs/Captura%20de%20pantalla%204.png)
+
+![Result1](https://github.com/LeiHan1/MUVA-Robotica/blob/master/3D/imgs/Captura%20de%20pantalla%205.png)
